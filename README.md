@@ -70,7 +70,7 @@ Feature engineering helped reveal deeper patterns in customer behavior.
 
 This chart shows the distribution of customer ages to understand the primary customer demographic.
 
-![Age Distribution](<img width="872" height="592" alt="Screenshot 2026-03-10 063306" src="https://github.com/user-attachments/assets/f77120ad-9f86-439f-8424-f2abe84c4ec1" />
+(<img width="872" height="592" alt="Screenshot 2026-03-10 063306" src="https://github.com/user-attachments/assets/f77120ad-9f86-439f-8424-f2abe84c4ec1" />
 )
 
 ---
